@@ -1,0 +1,7 @@
+{
+  "name": "MediLens",
+  "description": "Personal medical report tracking, parameter extraction, historical trends, and educational AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
