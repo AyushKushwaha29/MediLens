@@ -29,49 +29,6 @@ Create a modern SaaS-style web application where a user can:
 The UI should feel like a polished healthcare SaaS product, not a college demo.
 
 ==================================================
-2. TECH STACK
-==================================================
-
-Frontend:
-- React
-- Vite
-- TypeScript
-- Tailwind CSS
-- React Router
-- TanStack Query
-- Recharts
-- Lucide React icons
-
-Backend:
-- Python
-- FastAPI
-- Pydantic
-- SQLAlchemy
-
-Database:
-- PostgreSQL
-- pgvector if needed for RAG
-
-Authentication:
-- JWT-based authentication
-OR Firebase Authentication if easier to implement securely.
-
-File processing:
-- PyMuPDF for PDFs
-- OCR for scanned documents
-- Support JPG/PNG
-- Table extraction where possible
-
-AI:
-- LLM API with structured JSON output
-- Embeddings for semantic retrieval
-- RAG architecture for medical terminology/explanations
-
-Storage:
-- Local storage for development
-- S3-compatible object storage architecture for production
-
-==================================================
 3. APPLICATION ARCHITECTURE
 ==================================================
 
